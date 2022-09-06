@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/GDSC-NMIMS-MPSTME-Mumbai/App-Dev-Recruitment-Task-22/main/GDSC%20MPSTME%20logo.png)
 ### Welcome to the App Development Recruitment Task!
 
 Here we will be assessing your skills in app development and more importantly your willingness to learn.

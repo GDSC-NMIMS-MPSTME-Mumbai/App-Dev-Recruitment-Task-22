@@ -14,7 +14,7 @@ You can use any tools to design the flowchart. One such online tool is [Diagram 
 
 For additional resources refer: [App Dev Task Resources](https://drive.google.com/drive/folders/1PeV4Yq6SB2IvBCZlTPS2_U3btA5ivafJ)
 
-To submit your Solution -
+**To submit your Solution -**
 - Export the flowchart in png, jpg, jpeg format.
 - Upload these images to a GitHub repository.
 - Create a README file for the repository containing the flowchart images and explain in brief the components and flow of the diagram.

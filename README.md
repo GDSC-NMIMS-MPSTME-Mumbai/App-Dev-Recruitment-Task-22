@@ -6,7 +6,7 @@ Here we will be assessing your skills in app development and more importantly yo
 The first stage of producing and deploying any app is to design the UI (User Interface) and define the UX (User Experience).
 
 ### Task - UX Flow Diagram.
-For the UX, a good practice is to make a "UX Flow Diagram", which **describes the flow of control and the order of all the layouts** in any application. It's a visualization that gives an estimate of the required pages/features/processes. Feel free to research further and in detail about UX Flow Diagrams.
+For the UX, a good practice is to make a "UX Flow Diagram", which **describes the flow of control and the order of all the layouts** in any application. It's a visualization that gives an estimate of the required pages/ features/ processes. Feel free to research further and in detail about UX Flow Diagrams.
 
 **Your task is to create the UX Flow Diagram for an app for your college campus.** Be creative and incorporate any feature/ process/ layout/ page that you'd like to see in your final deployment. Try to include unique features and create a user friendly experience.
 
